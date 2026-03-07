@@ -1,2 +1,29 @@
-# AudioVision
-AudioVision is a TensorFlow-based project for audio data preparation,augmentation, and feature visualization. It processes raw audio, applies augmentation to improve dataset diversity, and visualizes features like waveforms, spectrograms, and MFCCs to help analyze audio patterns for machine learning applications such as speech and sound recognition
+# Audio Data Preparation, Augmentation and Feature Visualization using TensorFlow
+
+This project demonstrates audio preprocessing, augmentation, and feature visualization using TensorFlow and Librosa.
+
+## Features
+- Audio waveform visualization
+- Spectrogram generation
+- MFCC feature extraction
+- Mel Spectrogram visualization
+- Audio data augmentation
+- TensorFlow tensor processing
+
+## Dataset
+Google Speech Commands Dataset
+
+## Technologies Used
+- TensorFlow
+- Librosa
+- Python
+- Matplotlib
+- NumPy
+
+## Results
+The project successfully visualizes audio features and demonstrates augmentation techniques.
+
+## How to Run
+1. Clone the repo
+2. Open the notebook in Google Colab
+3. Run all cells

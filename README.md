@@ -1,6 +1,9 @@
-# Audio Data Preparation, Augmentation and Feature Visualization using TensorFlow
+# AudioVision
 
-This project demonstrates audio preprocessing, augmentation, and feature visualization using TensorFlow and Librosa.
+Audio Data Preparation, Augmentation, and Audio Feature Visualization using TensorFlow.
+
+## Overview
+This project demonstrates audio preprocessing and feature visualization using TensorFlow and Librosa.
 
 ## Features
 - Audio waveform visualization
@@ -8,22 +11,22 @@ This project demonstrates audio preprocessing, augmentation, and feature visuali
 - MFCC feature extraction
 - Mel Spectrogram visualization
 - Audio data augmentation
-- TensorFlow tensor processing
+- TensorFlow tensor conversion
 
 ## Dataset
 Google Speech Commands Dataset
 
-## Technologies Used
+## Technologies
+- Python
 - TensorFlow
 - Librosa
-- Python
 - Matplotlib
 - NumPy
 
-## Results
-The project successfully visualizes audio features and demonstrates augmentation techniques.
+## Visualizations
+Waveform, Spectrogram, MFCC and Mel Spectrogram were generated for audio analysis.
 
 ## How to Run
-1. Clone the repo
-2. Open the notebook in Google Colab
-3. Run all cells
+1. Open the notebook in Google Colab
+2. Run all cells
+3. Visualize audio features

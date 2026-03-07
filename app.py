@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 st.title("AudioVision - Audio Feature Visualization")
+st.audio(uploaded_file)
 
 uploaded_file = st.file_uploader("Upload an audio file", type=["wav"])
 
